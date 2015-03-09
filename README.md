@@ -5,7 +5,7 @@
 
 Registers a Hapi [server method](http://hapijs.com/tutorials/server-methods) to retrieve Google oAuth2 certificates for 
 [validation of ID tokens](https://developers.google.com/accounts/docs/OpenIDConnect#validatinganidtoken). Since 
-certificates do not change regularly, they are cached using Hapi's native cache for 24 hours to eliminate unnecessary
+certificates do not change frequently, they are cached using Hapi's native cache for 24 hours to eliminate unnecessary
 network calls.
 
 # Usage
