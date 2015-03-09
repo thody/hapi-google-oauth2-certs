@@ -1,6 +1,6 @@
 {
   "name": "hapi-google-oauth2-certs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hapi Plugin to manage Google's oAuth2 certificates.",
   "repository": "git@github.com:thody/hapi-google-oauth2-certs.git",
   "author": "Adam Thody",
