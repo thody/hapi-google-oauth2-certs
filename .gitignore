@@ -1,0 +1,10 @@
+# IntelliJ settings
+.idea
+
+# Coverage reports
+coverage.html
+
+# Dependencies
+node_modules
+
+
