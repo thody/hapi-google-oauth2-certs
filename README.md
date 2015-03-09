@@ -1,3 +1,6 @@
+[![Build Status](https://img.shields.io/travis/thody/hapi-google-oauth2-certs.svg)](https://travis-ci.org/thody/hapi-google-oauth2-certs)
+[![npm version](https://img.shields.io/npm/v/hapi-google-oauth2-certs.svg)](https://www.npmjs.com/package/hapi-google-oauth2-certs)
+
 # Introduction
 
 Registers a Hapi [server method](http://hapijs.com/tutorials/server-methods) to retrieve Google oAuth2 certificates for 
